@@ -67,7 +67,7 @@ This Page dashboard help to find the insights about the Customer ratings, feedba
  **Page 4: Retention Strategy**
 
  This Page dashboard help to find the insights about the High-value customer decline & retention strategy
- ![img]()
+ ![img](https://github.com/Revathi-jaisankar/Crisis-Recovery-to-an-Online-Food-Delivery-Startup-for-QuickBite-Express/blob/main/images/Recovery.png)
 
 
 ## 📊 **Key Metrics**
