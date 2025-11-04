@@ -62,7 +62,7 @@ This Page dashboard help to find the insights about the Delivery performance, ca
  **Page 3: Customer Sentiment**
 
 This Page dashboard help to find the insights about the Customer ratings, feedback, and loyalty impact
-![img]()
+![img](https://github.com/Revathi-jaisankar/Crisis-Recovery-to-an-Online-Food-Delivery-Startup-for-QuickBite-Express/blob/main/images/Customer%20Sentiment.png)
 
  **Page 4: Retention Strategy**
 
