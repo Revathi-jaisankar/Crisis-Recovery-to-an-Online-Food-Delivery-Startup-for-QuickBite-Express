@@ -52,7 +52,7 @@ It includes details such as:
  **Page 1: Overview & Order**
 
 This Page dashboard help to find the insights about the Business performance & order trends before and during the crisis
-![img]()
+![img](https://github.com/Revathi-jaisankar/Crisis-Recovery-to-an-Online-Food-Delivery-Startup-for-QuickBite-Express/blob/main/images/Overview%20%26%20Order.png)
 
  **Page 2: Operations Insights**
 
