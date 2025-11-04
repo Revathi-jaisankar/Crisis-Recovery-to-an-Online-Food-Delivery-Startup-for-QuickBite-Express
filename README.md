@@ -57,7 +57,7 @@ This Page dashboard help to find the insights about the Business performance & o
  **Page 2: Operations Insights**
 
 This Page dashboard help to find the insights about the Delivery performance, cancellations, and SLA efficiency
-![img]()
+![img](https://github.com/Revathi-jaisankar/Crisis-Recovery-to-an-Online-Food-Delivery-Startup-for-QuickBite-Express/blob/main/images/Operations%20insights.png)
 
  **Page 3: Customer Sentiment**
 
