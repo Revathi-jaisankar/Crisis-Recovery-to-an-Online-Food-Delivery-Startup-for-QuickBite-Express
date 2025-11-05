@@ -101,7 +101,7 @@ This Page dashboard help to find the insights about the Customer ratings, feedba
 
 📁 LinkedIn Post : [linkedIn post]()
 
-📁 YouTube Live Video : [post video](https://youtu.be/KAXgThvt2cQ)
+📁 YouTube Live Video : [post video](https://www.youtube.com/watch?v=JoztFDyZQLc)
 
 
 ## 📚 Learnings
