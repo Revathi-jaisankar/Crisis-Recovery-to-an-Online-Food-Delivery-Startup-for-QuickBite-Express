@@ -99,7 +99,7 @@ This Page dashboard help to find the insights about the Customer ratings, feedba
 
 👉 Click here to view the Resume Project Challenge [RPC-23](https://codebasics.io/challenges/codebasics-resume-project-challenge/23)
 
-📁 LinkedIn Post : [linkedIn post]()
+📁 LinkedIn Post : [linkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7394237517149102080/)
 
 📁 YouTube Live Video : [post video](https://www.youtube.com/watch?v=JoztFDyZQLc)
 
